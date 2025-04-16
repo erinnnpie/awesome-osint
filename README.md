@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a7a5bde1-63be-45b8-b893-1181990092df)
+![image](https://github.com/user-attachments/assets/ac2a5832-7104-4884-8c62-bc2dbb12479d)
 # Awesome OSINT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
@@ -577,6 +579,7 @@ algorithms, knowledgebase and AI technology.
 * [Factiva](https://global.factiva.com)
 * [Forbes Global 2000](http://www.forbes.com/global2000/)
 * [Glassdoor](https://www.glassdoor.com)
+* [Crawljobs](https://www.crawljobs.com)
 * [globalEdge](http://globaledge.msu.edu)
 * [GoodFirms](https://www.goodfirms.co/)
 * [GuideStar](http://www.guidestar.org)
